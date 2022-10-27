@@ -141,10 +141,10 @@ For Example:
       
                              And Everything passed my inspections!!!!!
                              
-       `MENS SHOES` TABLE AFTER CLEANING:
+    `MENS SHOES` TABLE AFTER CLEANING:
       <img width="1432" alt="Screen Shot 2022-10-26 at 11 24 00 PM" src="https://user-images.githubusercontent.com/109754836/198192865-d5329123-31ef-4cc4-a686-0b1450d0f5b0.png">
       
-      `WOMENS SHOES` TABLE AFTER CLEANING:
+  `WOMENS SHOES` TABLE AFTER CLEANING:
       <img width="1430" alt="Screen Shot 2022-10-26 at 11 24 52 PM" src="https://user-images.githubusercontent.com/109754836/198193001-0bbe5ec1-4fc0-48ea-932b-008a7590e4b4.png">
 
 
