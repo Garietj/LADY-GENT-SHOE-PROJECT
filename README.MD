@@ -134,7 +134,7 @@ For Example:
 - I continued by updating the sizes in the `Mens Shoes` table with missing values :
 <img width="570" alt="Screen Shot 2022-10-26 at 10 43 11 PM" src="https://user-images.githubusercontent.com/109754836/198186201-ce8a5803-f15e-47d9-8467-c85fb822b50b.png">
 
-- There were a few brand names and sizes that after extensive research I could not find, so instead of leaving them blank I just labeled them as 'Unknown'. 
+- There were a few brand names and sizes that after extensive research I could not find, so instead of leaving them blank I just labeled them as 'Unknown'. The 'Offers' Column in the `Mens Shoes` Table had missing values that I Could not find with furthur research. Concluding that they did not have offers available for those distinct shoes at the time of purchase, therefore leaving the values blank is the best alternative for this projet.
 
       After the last step, everything looked clean, organized and ready for exploration. But to make sure I 
       I went back through to make sure nothing else needed to be cleaned, removed, swapped, etc. 
