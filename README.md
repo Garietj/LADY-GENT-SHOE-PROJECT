@@ -114,8 +114,47 @@ information and 'Date Added' columns should be switched. All that needed to be d
 
 - So these tables specifically the `Mens Shoes` table had a ton of missing values in the 'Colors', 'Brand names', and 'Sizes' columns. Instead of keeping them blank I needed to do further research to find the missing values. Further research into the table showed that most of the information I needed was in the 'SourceUrls' column which shows the description of the footwear, colors, distributors, sizes, and brand names. I went through each missing value; compared and contrasted the information I needed out and filled the missing values in. 
 - There were other values like the variations of colors and sizes that were not able to be found in the 'SourceUrls' column. The strategy I took to overcome this was copying and pasting the Shoes ID, or the SourceURL, heading to "Google" and pasting the ID into the search handle. I really had to be strategic and really implement my researching skills to be able to locate all the missing values for this data. Luckily, I was able to find most of the missing information. "Google" located a ton of the shoes by ID or description of the shoe, So I was able to fill in all the missing values successfully. 
-     For Example:
+   
+   
+For Example:
      <img width="808" alt="Screen Shot 2022-10-26 at 10 25 22 PM" src="https://user-images.githubusercontent.com/109754836/198184108-6bd270f3-aa2c-41a1-8f22-8af62a4b120c.png">
+     
+- Once missing values were found I went through updating them:
+<img width="596" alt="Screen Shot 2022-10-26 at 10 29 27 PM" src="https://user-images.githubusercontent.com/109754836/198184660-fc0652bb-b3b8-4be6-a1da-57df51b53473.png">
+
+<img width="1362" alt="Screen Shot 2022-10-26 at 10 31 34 PM" src="https://user-images.githubusercontent.com/109754836/198184913-71ad43c4-1d93-46b3-9f31-fa14ceab620a.png">
+
+- Full Line Of Code Posted in Repository(Due to Length)
+
+      Next I removed all outliers such as Jewelry, Clothing, Accessories, and miscellaneous items
+      that were not Footwear. 
+      
+<img width="753" alt="Screen Shot 2022-10-26 at 10 37 31 PM" src="https://user-images.githubusercontent.com/109754836/198185568-8c9f357f-1708-4767-8658-85b8953dd754.png">
+
+- I continued by updating the sizes in the `Mens Shoes` table with missing values :
+<img width="570" alt="Screen Shot 2022-10-26 at 10 43 11 PM" src="https://user-images.githubusercontent.com/109754836/198186201-ce8a5803-f15e-47d9-8467-c85fb822b50b.png">
+
+- There were a few brand names and sizes that after extensive research I could not find, so instead of leaving them blank I just labeled them as 'Unknown'. 
+
+      After the last step, everything looked clean, organized and ready for exploration. But to make sure I 
+      I went back through to make sure nothing else needed to be cleaned, removed, swapped, etc. 
+      
+                             And Everything passed my inspections!!!!!
+   
+- So to recap what Data Cleansing Approaches and steps I implemented in this project:
+1. SCRAPED WOMEN AND MENS SHOES DATA FROM DATAFINITI'S PRODUCT DATABASE, INTO EXCEL AND MYSQL.
+2. REMOVED DUPLICATED DATA
+3. POPULATED/INPUT MISSING VALUES
+4. FILTER OUT OUTLIERS
+5. NORMALIZED DATA TYPOS AND DIFFERENCES
+6. CONVERTED THE DATA TYPES NECESSARY 
+7. RESEARCHED MISSING DATA TO FILL IN MISSING VALUES
+
+
+          **** NEXT UP IS THE DATA EXPLORATION SEGMENT OF THE LADY AND GENT SHOE PROJECT WHERE I WILL 
+           EXPLORE AND ANALYZE THE DATA FOR INSIGHTS TO ANSWER THE BUSINESS OBSTACLES. 
+
+
 
 
 
