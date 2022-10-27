@@ -31,7 +31,7 @@ it and some shoes may have multiple entries.
   I will Analyze Product Data for Men and Women's FootWear from some of the broadest known Brands like, "Kenneth Cole", "Stacy Adams", "Adidas", "Nike", "New Balance", "PUMA", "Steve Madden" and many more. The primary objective for this project is to gain insights into the correlation between the men and women Footwear using data driven resolutions to answer the following business task below: 
 
 
-- What are the diffences between Men and Womens shoe prices?
+- What are the differences between Men and Womens shoe prices?
 - Which brands have the highest prices?
 - What is the average price of each distinct brand listed?
 - Correlate specific product features with changes in price.
@@ -155,6 +155,7 @@ For Example:
            EXPLORE AND ANALYZE THE DATA FOR INSIGHTS TO ANSWER THE BUSINESS OBSTACLES. 
 
 
+   - Work Completed By ; Jasmine Gariet
 
 
 
